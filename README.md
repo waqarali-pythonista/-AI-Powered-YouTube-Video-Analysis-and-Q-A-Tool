@@ -38,3 +38,10 @@ Advanced Search: Implement advanced search features within the transcript to loc
 # Contribution
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request.
+
+
+
+
+https://github.com/user-attachments/assets/b52b7f7d-fee2-4dd1-a7d2-c2e6ecdbee71
+
+
