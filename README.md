@@ -11,7 +11,7 @@ AI-Powered Summary: Summarize the transcript of a YouTube video using OpenAI's G
 Dynamic Q&A: Ask questions about the video's content and receive real-time, expert-level responses based on the transcript.
 User-Friendly Interface: A clean and intuitive interface built with Streamlit to ensure a smooth and engaging user experience.
 
-#Why You Should Use This Project
+# Why You Should Use This Project
 
 If you frequently watch YouTube videos for learning or research purposes, this project is designed to enhance your experience by providing:
 
@@ -19,7 +19,7 @@ Efficient Learning: Quickly get summaries and key insights from lengthy videos w
 Detailed Understanding: Ask specific questions and get accurate answers, allowing for a deeper understanding of the video content.
 Time-Saving: Save time by focusing on the most relevant parts of a video through transcripts and summaries.
 
-#How to Use
+# How to Use
 
 Set Up Your Environment: Ensure you have Python installed along with the required libraries: Flask, Streamlit, requests, googleapiclient, youtube_transcript_api, and OpenAI.
 Clone the Repository: Download the project files from GitHub.
